@@ -1,1 +1,1 @@
-worker: python aadhar.py
+worker: python Supercoin.py
