@@ -1,1 +1,1 @@
-web: python aadhar.py
+worker: python aadhar.py
