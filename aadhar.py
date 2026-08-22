@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 
 # Bot Variables
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8640207091:AAGzbEZWsfBEX3okHKb0ZUjfU4Uvj5G_Ig4")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8640207091:AAFaC2lGxi8YmJkoSPx27IDiCb8yTGG2A5w")
 ADMIN_ID = int(os.environ.get("ADMIN_ID", "8640207091"))
 ADMIN_USERNAME = "ecbots3004"
 BOT_USERNAME = "ecaadharbot"
